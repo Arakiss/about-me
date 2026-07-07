@@ -36,7 +36,7 @@ These repos are not a complete production system. They are public pieces of the 
 
 - **[gommage](https://github.com/Arakiss/gommage)** (Rust): policy-as-code permission harness for AI coding agents. Deterministic allow, deny, and ask decisions with audit evidence.
 - **[nahuali](https://github.com/Arakiss/nahuali)** (Rust): self-inspecting memory for AI agents. Evidence, provenance, health signals, and an optional Ed25519-signed tamper-evident ledger.
-- **[traceframe](https://github.com/Arakiss/traceframe)** (Rust): local-first trace recorder for AI agent workflows. Append-only run evidence, hook ingestion, ledger indexing, reports, and CI gates.
+- **[slod](https://github.com/Arakiss/slod)** (Rust, formerly traceframe): local-first trace recorder for AI agent workflows. Append-only run evidence, hook ingestion, ledger indexing, reports, and CI gates.
 - **[greco](https://github.com/Arakiss/greco)** (Rust): research harness for typed, layered, reversible coding-agent harness changes under operator-owned evals and budgets.
 
 **Observability and local systems**
